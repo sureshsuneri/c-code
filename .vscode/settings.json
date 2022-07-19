@@ -1,0 +1,8 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "46_QUEUE_USING_LINKED_LIST.C": "cpp",
+        "55_SELECTION_SORT.C": "cpp",
+        "malloc.h": "c"
+    }
+}
